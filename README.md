@@ -1,4 +1,5 @@
-# id-card-generator
+# ID card generator using Vue.js   
+Sample ID card generator using vue.js   
 
 ## Project setup
 ```
