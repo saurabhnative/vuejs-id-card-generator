@@ -144,10 +144,11 @@ export default {
 
 .id-card-container {
   display: block;
+  width: 100%;
 }
 
 .card-container {
-  width: 90vw;
+  width: 100%;
   height: 300px;
   border-radius: 10px;
   font-family: var(--font-body);
@@ -170,7 +171,7 @@ export default {
 }
 
 .card-wrapper {
-  width: 80vw;
+  width: 100%;
   height: 250px;
   background-color: #fff;
   background: linear-gradient(#f8f8f8, #fff);
@@ -183,7 +184,7 @@ export default {
 }
 
 .user-card {
-  width: 30vw;
+  width: 30%;
   height: 100%;
   position: relative;
   background: linear-gradient(to top, var(--bg-official), #8f94fb);
@@ -193,7 +194,7 @@ export default {
 }
 
 .general-information {
-  width: 60vw;
+  width: 70%;
   height: 100%;
   display: flex;
   flex-direction: column;

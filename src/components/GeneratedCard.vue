@@ -12,15 +12,15 @@
           </div>
           <div class="general-information text-left">
             <div class="card-element card-name">
-              <span class="card-title">Name:</span>
+              <span class="card-title">Name: </span>
               <span class="card-input" id="cardName">{{formData.fullName}}</span>
             </div>
             <div class="card-element college-name">
-              <span class="card-title">College Name:</span>
+              <span class="card-title">College Name: </span>
               <span class="card-input" id="cardCollegeName">{{formData.collegeName}}</span>
             </div>
             <div class="card-element college-name">
-              <span class="card-title">Location:</span>
+              <span class="card-title">Location: </span>
               <span class="card-input" id="cardLocation">{{formData.locationName}}</span>
             </div>
           </div>

@@ -20,7 +20,7 @@
         </div>
     </div>
       <div class="d-flex">
-        <button class="btn-generate" onclick="generateCard()">
+        <button class="btn-generate" @click="generateCard()">
           Generate Card
         </button>
       </div>
