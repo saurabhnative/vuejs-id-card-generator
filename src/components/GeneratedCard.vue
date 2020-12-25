@@ -4,7 +4,7 @@
     <div class="id-card-container" id="collegeCard">
       <div class="text-center subtitle-card">Generated ID Card</div>
       <div class="card-container">
-        <div class="card-wrapper">
+        <div class="card-wrapper" id="generatedIdCard">
           <div class="user-card">
             <span class="user-photo">
               <i class="fa fa-user"></i>
